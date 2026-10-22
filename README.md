@@ -6,6 +6,13 @@ Created by **KnightWin** · Version **V1.0.0** · Licensed under **GNU GPLv3**
 
 ---
 
+## Screenshots 
+
+<img width="1917" height="1074" alt="Screenshot 2026-10-22 151944" src="https://github.com/user-attachments/assets/8031a2d0-ae67-4e8b-b963-0b7146fefb29" />
+<img width="1918" height="1079" alt="Screenshot 2026-10-22 151840" src="https://github.com/user-attachments/assets/c4162811-1ae2-43a4-9a47-4104072f06ff" />
+
+
+
 ## Features
 
 - **Tiny & Native:** Single self-contained C++/Win32 executable (`~307 KB`), zero external dependencies (no .NET, no Electron, no VC++ runtime required), uses only a few MB of RAM and ~0% CPU.
@@ -49,6 +56,13 @@ Both scripts output the standalone binary to `dist/1-Remind!.exe`.
 To regenerate the multi-size `.ico` from scratch, run `python3 tools/make_icon.py` (requires Pillow).
 
 ---
+
+## Support 
+
+If you like the app and want to support, it would be much appreciated! 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N7D7292WUD)
+
+
 
 ## License
 
